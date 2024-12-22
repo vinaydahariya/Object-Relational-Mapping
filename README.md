@@ -18,10 +18,4 @@ Before you begin, ensure you have the following installed:
 - Maven or Gradle
 - A relational database (e.g., MySQL, PostgreSQL, H2)
 
-## Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/orm-spring-boot.git
-cd orm-spring-boot
